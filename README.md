@@ -3,9 +3,9 @@
 
 - I’m currently working on my **self-hosted website using React.**
 
-- I’m currently learning **C++ at MST.**
+- I’m currently learning **Java at UMKC.**
 
-- All of my projects are available at [https://csfrederick.com](https://csfrederick.com).
+- All of my projects are available on my homemade and self-hosted site: [https://csfrederick.com](https://csfrederick.com).
 
 - I regularly have photoshoots! [https://csfrederick.com/art](https://csfrederick.com/art)
 
