@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Jack!</h1>
 <h3 align="center">An excited and forward-looking student eager to expand knowledge of computer science.</h3>
 
-- I’m currently working on my **self-hosted website using React.**
+- Currently working on my **self-hosted website using React.**
 
-- I’m currently learning **Java at UMKC.**
+- Learning **Java** at UMKC, **ReactJS** for my website development and **Apache** for my network configurations.
 
 - All of my projects are available on my homemade and self-hosted site: [https://csfrederick.com](https://csfrederick.com).
 
