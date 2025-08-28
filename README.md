@@ -7,6 +7,8 @@
 
 - All of my projects are available on my homemade and self-hosted site: [https://csfrederick.com](https://csfrederick.com).
 
+- Lead Developer for Foredark Games
+
 - I regularly have photoshoots! [https://csfrederick.com/art](https://csfrederick.com/art)
 
 - How to reach me **j49fkk@gmail.com**
